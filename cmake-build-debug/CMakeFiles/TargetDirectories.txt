@@ -1,0 +1,3 @@
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/cmake-build-debug/CMakeFiles/ass3NewTest1.dir

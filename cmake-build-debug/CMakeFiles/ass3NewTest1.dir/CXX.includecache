@@ -1,0 +1,212 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/AnomalyDetector.h
+string
+-
+vector
+-
+timeseries.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/timeseries.h
+math.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/math.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/CLI.cpp
+CLI.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/CLI.h
+stdlib.h
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/CLI.h
+string.h
+-
+commands.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/commands.h
+AnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/AnomalyDetector.h
+vector
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/HybridAnomalyDetector.cpp
+HybridAnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/HybridAnomalyDetector.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/HybridAnomalyDetector.h
+SimpleAnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/SimpleAnomalyDetector.h
+minCircle.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/minCircle.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/MainTrain.cpp
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netdb.h
+-
+pthread.h
+-
+thread
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+time.h
+-
+Server.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/Server.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/Server.cpp
+unistd.h
+-
+Server.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/Server.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/Server.h
+stdio.h
+-
+sys/socket.h
+-
+thread
+-
+pthread.h
+-
+netinet/in.h
+-
+mutex
+-
+CLI.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/CLI.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/SimpleAnomalyDetector.cpp
+SimpleAnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/SimpleAnomalyDetector.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/SimpleAnomalyDetector.h
+anomaly_detection_util.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/anomaly_detection_util.h
+AnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/AnomalyDetector.h
+vector
+-
+algorithm
+-
+string.h
+-
+math.h
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/anomaly_detection_util.cpp
+string.h
+-
+iostream
+-
+math.h
+-
+anomaly_detection_util.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/anomaly_detection_util.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/anomaly_detection_util.h
+iostream
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/commands.h
+iostream
+-
+string.h
+-
+fstream
+-
+vector
+-
+sstream
+-
+iomanip
+-
+HybridAnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/HybridAnomalyDetector.h
+regex
+-
+set
+-
+sys/socket.h
+-
+iostream
+-
+string.h
+-
+fstream
+-
+vector
+-
+sstream
+-
+iomanip
+-
+HybridAnomalyDetector.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/HybridAnomalyDetector.h
+regex
+-
+set
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/minCircle.cpp
+minCircle.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/minCircle.h
+iostream
+-
+math.h
+-
+vector
+-
+time.h
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/minCircle.h
+iostream
+-
+math.h
+-
+vector
+-
+stdlib.h
+-
+time.h
+-
+anomaly_detection_util.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/anomaly_detection_util.h
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/timeseries.cpp
+timeseries.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/timeseries.h
+string.h
+-
+
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/timeseries.h
+fstream
+-
+vector
+-
+string
+-
+memory
+-
+timeseries.h
+/home/gavriel/Desktop/server-annomaly detector/newStone3FinishedLinux/AnomaliDetectorClient-Server/timeseries.h
+
